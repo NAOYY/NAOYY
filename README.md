@@ -68,8 +68,6 @@ function copyToClipboard(text) {
 }
 </script>
 
-</body>
-</html>
 
 
 <!-- <details open>
