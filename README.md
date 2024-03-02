@@ -10,8 +10,8 @@ Hey there, I'm Yoan
 
 
 - 📫 How to reach me:
-    - :octocat: [Github@itgoyo](https://github.com/Naoyy)
-    - :email: [itgoyo@gmail.com](mailto:yoan.jsem@gmail.com)
+    - :octocat: [Github@naoyy](https://github.com/Naoyy)
+    - :email: [yoan.jsem@gmail.com](mailto:yoan.jsem@gmail.com)
 
 <!-- <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
