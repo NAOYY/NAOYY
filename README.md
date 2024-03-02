@@ -2,10 +2,9 @@
 <h1 align="center">Hi 🫡, I'm Yoan</h1>
 <h3 align="center">A Computer Vision DataScientist Intern at <a href="https://ryte.ai">Ryte</a></h3>
 
-Hello there, it's Yoan ! 
+Hello there, pleased to meet you !
 
-Currently Studying Data science at [Paris 1 Panthéon Sorbonne](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-econometrie-statistiques-KBURDRPJ/master-parcours-modelisations-statistiques-economiques-et-financieres-mosef-formation-initiale-et-apprentissage-KBURDRT5.html)
-
+I'm currently studying Data Science at [Paris 1 Panthéon Sorbonne](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-econometrie-statistiques-KBURDRPJ/master-parcours-modelisations-statistiques-economiques-et-financieres-mosef-formation-initiale-et-apprentissage-KBURDRT5.html)
 
 
 <h3 align="left">Languages and Tools:</h3>
